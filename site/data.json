@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "generated_at": "2026-08-06T21:32:42+00:00",
+    "run_date": "2026-08-06",
+    "counts": {
+      "total": 10,
+      "open": 7,
+      "new": 0,
+      "by_source": {
+        "Fondation de France": 4,
+        "EU Funding & Tenders": 6
+      }
+    },
+    "sources": [
+      {
+        "name": "ReliefWeb",
+        "status": "skipped",
+        "message": "skipped: RELIEFWEB_APPNAME not set — submit the appname form and add it as a GitHub secret to activate this source",
+        "count": 0
+      },
+      {
+        "name": "EU Funding & Tenders",
+        "status": "ok",
+        "message": "",
+        "count": 100
+      },
+      {
+        "name": "Fondation de France",
+        "status": "ok",
+        "message": "",
+        "count": 14
+      }
+    ],
+    "deadline_highlight_days": 30
+  },
+  "opportunities": [
+    {
+      "id": "4778fe74da764e2e",
+      "source": "Fondation de France",
+      "source_type": "auto",
+      "title": "Réveillons la solidarité ! Ensemble partageons les fêtes de fin d’année",
+      "donor": "Fondation de France",
+      "description": "Pour les plus fragiles d’entre nous, pour toutes les personnes en situation d’exclusion, les fêtes de fin d’année sont un cap difficile à passer. La solitude est d’autant plus criante que partout, les familles et les amis se retrouvent. C’est pourquoi la Fondation de France, depuis plus de 20 ans, agit auprès des associations de proximité pour permettre…",
+      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/reveillons-la-solidarite-ensemble-partageons-les-fetes-de-fin-d-annee",
+      "funding_range": null,
+      "deadline": "2026-09-10",
+      "deadline_approx": false,
+      "source_geography": [
+        "France"
+      ],
+      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
+      "geography": [
+        "France"
+      ],
+      "themes": [
+        "Solidarity"
+      ],
+      "relevance_score": 20,
+      "relevance_reasons": [
+        "geo:France",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "a1489ba67440dc32",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Boosting mental health of young cancer survivors through the European Cancer Patient Digital Centre (ECPDC)",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-MISS-2026-02-CANCER-05.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MISS-2026-02-CANCER-05",
+      "funding_range": null,
+      "deadline": "2026-09-15",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "MHPSS"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:MHPSS"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "d8c164533d5209ce",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Quality Label Humanitarian Aid - Full Procedure",
+      "donor": "European Union",
+      "description": "Call/topic: ESC-HUMAID-2021-QUAL-LABEL-FP.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2021-QUAL-LABEL-FP",
+      "funding_range": null,
+      "deadline": "2026-09-21",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "13e7d8404205578c",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Strengthened implementation of the EU Pact on Migration and Asylum and a focus on inclusion, integration, and health",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-08.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-08",
+      "funding_range": null,
+      "deadline": "2026-09-23",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "Refugees",
+        "Solidarity"
+      ],
+      "relevance_score": 53,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:Refugees",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "1830d109e8096861",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Understanding inhabitant’s experiences of neighbourhoods to support their health and well-being",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-NEB-2026-01-PARTICIPATION-03.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-NEB-2026-01-PARTICIPATION-03",
+      "funding_range": null,
+      "deadline": "2026-12-01",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "MHPSS"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:MHPSS"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "cb5b81dd4eb626c4",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Scaling and deploying innovations in migration management",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2027-01-TRANSFO-08.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2027-01-TRANSFO-08",
+      "funding_range": null,
+      "deadline": "2027-09-23",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Refugees"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Refugees"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "6d3a5608edd1b673",
+      "source": "Fondation de France",
+      "source_type": "auto",
+      "title": "Démocratie en santé : réduire les inégalités de santé par le partenariat en santé et les démarches communautaires",
+      "donor": "Fondation de France",
+      "description": "Cet appel à initiatives vise à accompagner des structures sur les territoires Centre-Est et Méditerranée proposant d’expérimenter des initiatives qui contribuent à une meilleure prise en charge des patients, des populations minorisées et des aidants, permettant une transformation des pratiques de santé vers plus de co-construction et d’inclusion.",
+      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/democratie-sante",
+      "funding_range": null,
+      "deadline": null,
+      "deadline_approx": false,
+      "source_geography": [
+        "France"
+      ],
+      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
+      "geography": [
+        "France"
+      ],
+      "themes": [
+        "Health",
+        "Solidarity"
+      ],
+      "relevance_score": 35,
+      "relevance_reasons": [
+        "geo:France",
+        "theme:Health",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": false
+    },
+    {
+      "id": "b98101134473bf23",
+      "source": "Fondation de France",
+      "source_type": "auto",
+      "title": "Recherche collaborative sur les maladies psychiatriques",
+      "donor": "Fondation de France",
+      "description": "Alors qu’une personne sur quatre souffrira au cours de sa vie d’une maladie psychiatrique, la maladie mentale est un facteur de risque majeur de suicide et l’espérance de vie des personnes souffrant de ces pathologies est inférieure de 10 à 15 ans à celle de la population générale.",
+      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/recherche-collaborative-sur-les-maladies-psychiatriques",
+      "funding_range": null,
+      "deadline": "2026-07-01",
+      "deadline_approx": false,
+      "source_geography": [
+        "France"
+      ],
+      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
+      "geography": [
+        "France"
+      ],
+      "themes": [
+        "MHPSS"
+      ],
+      "relevance_score": 20,
+      "relevance_reasons": [
+        "geo:France",
+        "theme:MHPSS"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": true
+    },
+    {
+      "id": "ab6714f76c684aec",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Support to Civil Society and Human Rights in Nigeria",
+      "donor": "European Union",
+      "description": "Call/topic: EuropeAid/186246/DD/ACT/NG.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EuropeAid/186246/DD/ACT/NG",
+      "funding_range": null,
+      "deadline": "2026-07-06",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.  •  Large institutional donor (AFD / EuropeAid / Expertise France) — typically requires multi-year audited accounts. Stretch.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection",
+        "Solidarity"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": true
+    },
+    {
+      "id": "a6118f99604a2dac",
+      "source": "Fondation de France",
+      "source_type": "auto",
+      "title": "Garantir l’accès effectif aux droits des personnes marginalisées et/ou discriminées",
+      "donor": "Fondation de France",
+      "description": "À travers cet appel à projets, le collectif Droits et Discriminations initié par la Fondation de France souhaite soutenir des initiatives visant à protéger et faciliter l’accès aux droits des personnes marginalisées et/ou discriminées et renforcer le pouvoir d’agir des personnes marginalisées et/ou discriminées par l’accès à des espaces d’auto-organisation…",
+      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/garantir-lacces-effectif-aux-droits-des-personnes-marginalisees-et-ou-discriminees-2",
+      "funding_range": null,
+      "deadline": "2026-07-15",
+      "deadline_approx": false,
+      "source_geography": [
+        "France"
+      ],
+      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
+      "geography": [
+        "France"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 20,
+      "relevance_reasons": [
+        "geo:France",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-08-06",
+      "expired": true
+    }
+  ]
+}

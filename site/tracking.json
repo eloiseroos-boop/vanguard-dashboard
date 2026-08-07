@@ -1,0 +1,4 @@
+{
+  "_manual": [],
+  "_comment": "User state. Keys are opportunity ids -> {status, notes, updated}. `_manual` holds hand-entered opportunities (login-gated sources). Edited by the dashboard; safe to edit by hand too."
+}

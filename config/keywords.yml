@@ -1,0 +1,87 @@
+# =============================================================================
+# Relevance configuration for the funding dashboard.
+# Edit these lists to tune what gets surfaced. Matching is case-insensitive
+# substring matching against each opportunity's title + description + donor +
+# any tags the source already provided.
+# =============================================================================
+
+# --- Geography buckets -------------------------------------------------------
+geographies:
+  Lebanon:  [lebanon, lebanese, beirut, liban, bekaa, tripoli, "south lebanon"]
+  MENA:     [middle east, mena, levant, syria, syrian, jordan, "occupied palestin",
+             palestine, iraq, "cross-border", "cross border", "near east", mashreq,
+             "neighbourhood south", "southern neighbourhood"]
+  Global:   [global, worldwide, unrestricted, "no geographic", "all countries",
+             international, "multi-country", multicountry]
+  France:   [france, french, "en france", hexagone, métropol, metropol]
+
+# Geographies that count as "in scope" for the default keep rule.
+in_scope_geographies: [Lebanon, MENA, Global]
+
+# "Core" humanitarian themes strong enough to keep an item even when no
+# geography is named (many humanitarian/refugee/MHPSS calls are country-less).
+core_themes: [MHPSS, Protection, Humanitarian, Refugees]
+
+# --- Theme buckets (bilingual EN/FR — sources include French text) -----------
+themes:
+  MHPSS:        [mental health, "santé mentale", "sante mentale", "psycho-social",
+                 psychosocial, "soutien psychosocial", mhpss, psychiatr,
+                 "psychological support", "psychological first aid", trauma,
+                 "well-being", wellbeing, "mental wellbeing", "bien-être", "bien-etre",
+                 counsel, psychologique, détresse, detresse]
+  # NOTE: bare "protection" is deliberately excluded — in EU calls it collides
+  # with euro/infrastructure/crop/self-protection. Use humanitarian-specific phrases.
+  Protection:   ["child protection", "protection of civilians", "social protection",
+                 "protection cluster", "gender-based violence", "gender based violence",
+                 gbv, "sexual violence", "sexual and gender", safeguarding,
+                 "human rights", "droits humains", "droits des personnes",
+                 "violences faites", marginalis, discrimin,
+                 "personnes vulnérables", "personnes vulnerables"]
+  Humanitarian: [humanitarian, humanitaire, "emergency response", urgence,
+                 "humanitarian response", relief, "humanitarian aid", "aide humanitaire",
+                 crisis, emergency]
+  Refugees:     [refugee, refugees, réfugié, refugie, réfugiés, refugies, displace,
+                 displacement, déplacé, deplace, asylum, "demandeur d'asile", idp,
+                 "internally displaced", migrant, migration, exil, "host communit"]
+  Health:       [health, santé, sante, "primary health", "public health",
+                 "santé publique", "health system", "community health", soins]
+  Solidarity:   [solidarit, "civil society", "société civile", "societe civile",
+                 "social cohesion", "cohésion sociale", inclusion, insertion,
+                 vulnerable, vulnérable]
+
+# Sources whose theme-matched calls are kept even when geography is out of scope
+# (because you explicitly asked to monitor them — e.g. French national funders).
+always_keep_on_theme_sources: ["Fondation de France"]
+
+# --- Eligibility flags -------------------------------------------------------
+# If a rule matches, its note is attached to the opportunity so you can see
+# stretch opportunities without them being hidden.
+eligibility_flags:
+  - match_sources: ["EU Funding & Tenders"]
+    note: "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible."
+  - match_keywords: [echo, "framework partnership", " fpa"]
+    note: "ECHO/FPA-type funding — requires a Framework Partnership Agreement + audited accounts. Stretch."
+  - match_keywords: [afd, "agence française", "expertise france", europeaid, "delegation agreement"]
+    note: "Large institutional donor (AFD / EuropeAid / Expertise France) — typically requires multi-year audited accounts. Stretch."
+  - match_sources: ["Fondation de France"]
+    note: "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects)."
+
+# --- Scoring & thresholds ----------------------------------------------------
+scoring:
+  geography: {Lebanon: 40, MENA: 25, Global: 10, Unspecified: 8, France: 5}
+  theme_each: 15
+  theme_max: 45
+
+# Hide opportunities whose deadline passed more than this many days ago
+# (drops stale index artifacts while keeping recently-closed calls visible).
+drop_expired_over_days: 45
+# Keep an open, still-relevant item this many days after it drops out of a
+# source fetch (smooths pagination churn without resurrecting rejected items).
+carry_forward_grace_days: 14
+
+# Minimum relevance score for an item to trigger a NEW-match email alert.
+alert_score_threshold: 30
+# Deadlines within this many days are highlighted in the dashboard.
+deadline_highlight_days: 30
+# Email deadline reminder window (days) for tracked/saved opportunities.
+deadline_alert_days: 7

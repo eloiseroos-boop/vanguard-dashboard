@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vanguard Humanity — Funding Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🧭</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-in">
+      <div class="brand">
+        <span class="logo">🧭</span>
+        <div>
+          <h1>Funding Dashboard</h1>
+          <div class="brand-sub">Vanguard Humanity · MHPSS Lebanon</div>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button id="btn-add" class="btn">+ Add opportunity</button>
+        <button id="btn-settings" class="btn btn-ghost" title="GitHub sync settings">⚙︎ Sync</button>
+      </div>
+    </div>
+    <div id="meta-bar" class="meta-bar"></div>
+    <div id="sync-banner" class="sync-banner hidden"></div>
+  </header>
+
+  <main>
+    <section id="stats" class="stats"></section>
+
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search title, donor, description…" autocomplete="off">
+      <select id="f-source" class="f"><option value="">All sources</option></select>
+      <select id="f-theme"  class="f"><option value="">All themes</option></select>
+      <select id="f-geo"    class="f"><option value="">All geographies</option></select>
+      <select id="f-status" class="f"><option value="">All statuses</option></select>
+      <label class="chk"><input type="checkbox" id="f-hide-expired" checked> Hide expired</label>
+      <label class="chk"><input type="checkbox" id="f-soon"> Closing ≤30d</label>
+      <label class="chk"><input type="checkbox" id="f-new"> New only</label>
+      <span class="spacer"></span>
+      <label class="sortlbl">Sort
+        <select id="sort">
+          <option value="deadline">Deadline (soonest)</option>
+          <option value="relevance">Relevance</option>
+          <option value="first_seen">Recently added</option>
+          <option value="source">Source</option>
+          <option value="status">Status</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="table-wrap">
+      <table id="grid">
+        <thead>
+          <tr>
+            <th class="col-status">Status</th>
+            <th class="col-opp">Opportunity</th>
+            <th class="col-deadline">Deadline</th>
+            <th class="col-fund">Funding</th>
+            <th class="col-elig">Eligibility</th>
+            <th class="col-act"></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <div id="empty" class="empty hidden">No opportunities match your filters.</div>
+    </section>
+
+    <footer class="foot">
+      <span id="foot-note"></span>
+    </footer>
+  </main>
+
+  <!-- Add / edit opportunity modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-card">
+      <h2 id="modal-title">Add opportunity</h2>
+      <p class="modal-hint">For login-gated sources (DevelopmentAid, OCHA GMS / Lebanon Humanitarian Fund,
+        Expertise France POPS) or anything you spot manually.</p>
+      <form id="opp-form">
+        <input type="hidden" id="m-id">
+        <label>Title *<input id="m-title" required></label>
+        <div class="grid2">
+          <label>Source *
+            <select id="m-source">
+              <option>OCHA GMS / Lebanon Humanitarian Fund</option>
+              <option>DevelopmentAid</option>
+              <option>Expertise France POPS</option>
+              <option>Other</option>
+            </select>
+          </label>
+          <label>Donor / funder<input id="m-donor"></label>
+        </div>
+        <label>Link (URL)<input id="m-url" type="url" placeholder="https://…"></label>
+        <div class="grid2">
+          <label>Deadline<input id="m-deadline" type="date"></label>
+          <label>Funding range<input id="m-funding" placeholder="e.g. €20k–€80k"></label>
+        </div>
+        <div class="grid2">
+          <label>Geography<input id="m-geo" placeholder="Lebanon, MENA…"></label>
+          <label>Themes<input id="m-themes" placeholder="MHPSS, Protection…"></label>
+        </div>
+        <label>Description<textarea id="m-desc" rows="2"></textarea></label>
+        <label>Eligibility notes<textarea id="m-elig" rows="2"></textarea></label>
+        <div class="modal-actions">
+          <button type="button" id="m-delete" class="btn btn-danger hidden">Delete</button>
+          <span class="spacer"></span>
+          <button type="button" id="m-cancel" class="btn btn-ghost">Cancel</button>
+          <button type="submit" class="btn">Save</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Settings modal -->
+  <div id="settings" class="modal hidden">
+    <div class="modal-card">
+      <h2>GitHub sync</h2>
+      <p class="modal-hint">Optional. Without this, your statuses &amp; manual entries save in this
+        browser only. Add a fine-grained token (Contents: read &amp; write, this repo only) to sync
+        them to the repo so they persist across devices and feed the email alerts. The token is stored
+        only in this browser's local storage.</p>
+      <form id="settings-form">
+        <div class="grid2">
+          <label>Owner<input id="s-owner"></label>
+          <label>Repo<input id="s-repo"></label>
+        </div>
+        <div class="grid2">
+          <label>Branch<input id="s-branch" value="main"></label>
+          <label>File path<input id="s-path" value="site/tracking.json"></label>
+        </div>
+        <label>Fine-grained token<input id="s-token" type="password" placeholder="github_pat_…"></label>
+        <div class="modal-actions">
+          <span id="s-status" class="s-status"></span>
+          <span class="spacer"></span>
+          <button type="button" id="s-cancel" class="btn btn-ghost">Close</button>
+          <button type="submit" class="btn">Save settings</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
