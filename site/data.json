@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T09:45:17+00:00",
-    "run_date": "2026-08-14",
+    "generated_at": "2026-08-15T07:47:29+00:00",
+    "run_date": "2026-08-15",
     "counts": {
-      "total": 10,
-      "open": 7,
-      "new": 0,
+      "total": 11,
+      "open": 8,
+      "new": 1,
       "by_source": {
         "Fondation de France": 4,
-        "EU Funding & Tenders": 6
+        "EU Funding & Tenders": 7
       }
     },
     "sources": [
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 104
+        "count": 101
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -155,7 +155,38 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
+      "expired": false
+    },
+    {
+      "id": "fcb128e543f56bbd",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Scientific and technical assistance on a foresight activity in the field of plant health to enhance crisis preparedness for the EU territory.",
+      "donor": "European Union",
+      "description": "Call/topic: EUBA-EFSA-2026-PLANTS-01.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2026-PLANTS-01",
+      "funding_range": null,
+      "deadline": "2026-10-07",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "Humanitarian"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-08-15",
+      "is_new": true,
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -186,7 +217,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -215,7 +246,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -248,7 +279,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": false
     },
     {
@@ -279,7 +310,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": true
     },
     {
@@ -310,7 +341,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": true
     },
     {
@@ -341,7 +372,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-08-15",
       "expired": true
     }
   ]
