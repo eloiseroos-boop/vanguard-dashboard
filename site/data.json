@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:47:29+00:00",
-    "run_date": "2026-08-15",
+    "generated_at": "2026-08-16T07:49:27+00:00",
+    "run_date": "2026-08-16",
     "counts": {
-      "total": 11,
+      "total": 10,
       "open": 8,
-      "new": 1,
+      "new": 0,
       "by_source": {
-        "Fondation de France": 4,
+        "Fondation de France": 3,
         "EU Funding & Tenders": 7
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 101
+        "count": 103
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -155,7 +155,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -185,8 +185,8 @@
         "theme:Humanitarian"
       ],
       "date_first_seen": "2026-08-15",
-      "is_new": true,
-      "last_seen": "2026-08-15",
+      "is_new": false,
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -217,7 +217,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -246,7 +246,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
     },
     {
@@ -279,39 +279,8 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": false
-    },
-    {
-      "id": "b98101134473bf23",
-      "source": "Fondation de France",
-      "source_type": "auto",
-      "title": "Recherche collaborative sur les maladies psychiatriques",
-      "donor": "Fondation de France",
-      "description": "Alors qu’une personne sur quatre souffrira au cours de sa vie d’une maladie psychiatrique, la maladie mentale est un facteur de risque majeur de suicide et l’espérance de vie des personnes souffrant de ces pathologies est inférieure de 10 à 15 ans à celle de la population générale.",
-      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/recherche-collaborative-sur-les-maladies-psychiatriques",
-      "funding_range": null,
-      "deadline": "2026-07-01",
-      "deadline_approx": false,
-      "source_geography": [
-        "France"
-      ],
-      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
-      "geography": [
-        "France"
-      ],
-      "themes": [
-        "MHPSS"
-      ],
-      "relevance_score": 20,
-      "relevance_reasons": [
-        "geo:France",
-        "theme:MHPSS"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-08-15",
-      "expired": true
     },
     {
       "id": "ab6714f76c684aec",
@@ -341,7 +310,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": true
     },
     {
@@ -372,7 +341,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-16",
       "expired": true
     }
   ]
