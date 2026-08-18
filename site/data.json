@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T08:26:06+00:00",
-    "run_date": "2026-08-17",
+    "generated_at": "2026-08-18T08:04:54+00:00",
+    "run_date": "2026-08-18",
     "counts": {
-      "total": 10,
+      "total": 9,
       "open": 8,
       "new": 0,
       "by_source": {
         "Fondation de France": 3,
-        "EU Funding & Tenders": 7
+        "EU Funding & Tenders": 6
       }
     },
     "sources": [
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -155,7 +155,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -186,7 +186,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -217,7 +217,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -246,7 +246,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
     },
     {
@@ -279,39 +279,8 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": false
-    },
-    {
-      "id": "ab6714f76c684aec",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Support to Civil Society and Human Rights in Nigeria",
-      "donor": "European Union",
-      "description": "Call/topic: EuropeAid/186246/DD/ACT/NG.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EuropeAid/186246/DD/ACT/NG",
-      "funding_range": null,
-      "deadline": "2026-07-06",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.  •  Large institutional donor (AFD / EuropeAid / Expertise France) — typically requires multi-year audited accounts. Stretch.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection",
-        "Solidarity"
-      ],
-      "relevance_score": 38,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-08-17",
-      "expired": true
     },
     {
       "id": "a6118f99604a2dac",
@@ -341,7 +310,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "expired": true
     }
   ]
