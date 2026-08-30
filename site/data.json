@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T06:24:52+00:00",
-    "run_date": "2026-08-29",
+    "generated_at": "2026-08-30T06:24:55+00:00",
+    "run_date": "2026-08-30",
     "counts": {
-      "total": 9,
+      "total": 8,
       "open": 8,
       "new": 0,
       "by_source": {
-        "Fondation de France": 3,
+        "Fondation de France": 2,
         "EU Funding & Tenders": 6
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 107
+        "count": 106
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -155,7 +155,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -186,7 +186,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -217,7 +217,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -246,7 +246,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
     },
     {
@@ -279,39 +279,8 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-08-30",
       "expired": false
-    },
-    {
-      "id": "a6118f99604a2dac",
-      "source": "Fondation de France",
-      "source_type": "auto",
-      "title": "Garantir l’accès effectif aux droits des personnes marginalisées et/ou discriminées",
-      "donor": "Fondation de France",
-      "description": "À travers cet appel à projets, le collectif Droits et Discriminations initié par la Fondation de France souhaite soutenir des initiatives visant à protéger et faciliter l’accès aux droits des personnes marginalisées et/ou discriminées et renforcer le pouvoir d’agir des personnes marginalisées et/ou discriminées par l’accès à des espaces d’auto-organisation…",
-      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/garantir-lacces-effectif-aux-droits-des-personnes-marginalisees-et-ou-discriminees-2",
-      "funding_range": null,
-      "deadline": "2026-07-15",
-      "deadline_approx": false,
-      "source_geography": [
-        "France"
-      ],
-      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
-      "geography": [
-        "France"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 20,
-      "relevance_reasons": [
-        "geo:France",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-08-29",
-      "expired": true
     }
   ]
 }
