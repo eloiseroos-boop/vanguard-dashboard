@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T11:27:13+00:00",
-    "run_date": "2026-09-10",
+    "generated_at": "2026-09-11T11:28:59+00:00",
+    "run_date": "2026-09-11",
     "counts": {
       "total": 11,
-      "open": 11,
+      "open": 10,
       "new": 0,
       "by_source": {
-        "Fondation de France": 2,
-        "EU Funding & Tenders": 9
+        "EU Funding & Tenders": 9,
+        "Fondation de France": 2
       }
     },
     "sources": [
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 99
+        "count": 100
       },
       {
         "name": "Fondation de France",
@@ -34,37 +34,6 @@
     "deadline_highlight_days": 30
   },
   "opportunities": [
-    {
-      "id": "4778fe74da764e2e",
-      "source": "Fondation de France",
-      "source_type": "auto",
-      "title": "Réveillons la solidarité ! Ensemble partageons les fêtes de fin d’année",
-      "donor": "Fondation de France",
-      "description": "Pour les plus fragiles d’entre nous, pour toutes les personnes en situation d’exclusion, les fêtes de fin d’année sont un cap difficile à passer. La solitude est d’autant plus criante que partout, les familles et les amis se retrouvent. C’est pourquoi la Fondation de France, depuis plus de 20 ans, agit auprès des associations de proximité pour permettre…",
-      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/reveillons-la-solidarite-ensemble-partageons-les-fetes-de-fin-d-annee",
-      "funding_range": null,
-      "deadline": "2026-09-10",
-      "deadline_approx": false,
-      "source_geography": [
-        "France"
-      ],
-      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
-      "geography": [
-        "France"
-      ],
-      "themes": [
-        "Solidarity"
-      ],
-      "relevance_score": 20,
-      "relevance_reasons": [
-        "geo:France",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-09-10",
-      "expired": false
-    },
     {
       "id": "a1489ba67440dc32",
       "source": "EU Funding & Tenders",
@@ -93,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -122,7 +91,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -155,7 +124,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -184,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -213,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -242,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -273,7 +242,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -304,7 +273,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -333,7 +302,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
     },
     {
@@ -366,8 +335,39 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-11",
       "expired": false
+    },
+    {
+      "id": "4778fe74da764e2e",
+      "source": "Fondation de France",
+      "source_type": "auto",
+      "title": "Réveillons la solidarité ! Ensemble partageons les fêtes de fin d’année",
+      "donor": "Fondation de France",
+      "description": "Pour les plus fragiles d’entre nous, pour toutes les personnes en situation d’exclusion, les fêtes de fin d’année sont un cap difficile à passer. La solitude est d’autant plus criante que partout, les familles et les amis se retrouvent. C’est pourquoi la Fondation de France, depuis plus de 20 ans, agit auprès des associations de proximité pour permettre…",
+      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/reveillons-la-solidarite-ensemble-partageons-les-fetes-de-fin-d-annee",
+      "funding_range": null,
+      "deadline": "2026-09-10",
+      "deadline_approx": false,
+      "source_geography": [
+        "France"
+      ],
+      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
+      "geography": [
+        "France"
+      ],
+      "themes": [
+        "Solidarity"
+      ],
+      "relevance_score": 20,
+      "relevance_reasons": [
+        "geo:France",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-09-11",
+      "expired": true
     }
   ]
 }
