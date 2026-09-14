@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T11:58:59+00:00",
-    "run_date": "2026-09-13",
+    "generated_at": "2026-09-14T12:56:59+00:00",
+    "run_date": "2026-09-14",
     "counts": {
       "total": 11,
-      "open": 10,
+      "open": 9,
       "new": 0,
       "by_source": {
         "EU Funding & Tenders": 9,
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 99
+        "count": 102
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -91,7 +91,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -124,7 +124,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -153,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -182,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -211,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -273,7 +273,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": false
     },
     {
@@ -314,7 +314,7 @@
       "description": "Cet appel à initiatives vise à accompagner des structures sur les territoires Centre-Est et Méditerranée proposant d’expérimenter des initiatives qui contribuent à une meilleure prise en charge des patients, des populations minorisées et des aidants, permettant une transformation des pratiques de santé vers plus de co-construction et d’inclusion.",
       "url": "https://www.fondationdefrance.org/fr/appels-a-projets/democratie-sante",
       "funding_range": null,
-      "deadline": null,
+      "deadline": "2026-09-10",
       "deadline_approx": false,
       "source_geography": [
         "France"
@@ -335,8 +335,8 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
-      "expired": false
+      "last_seen": "2026-09-14",
+      "expired": true
     },
     {
       "id": "4778fe74da764e2e",
@@ -366,7 +366,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "expired": true
     }
   ]
