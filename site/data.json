@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T11:44:09+00:00",
-    "run_date": "2026-09-16",
+    "generated_at": "2026-09-17T11:48:42+00:00",
+    "run_date": "2026-09-17",
     "counts": {
-      "total": 10,
-      "open": 8,
-      "new": 0,
+      "total": 14,
+      "open": 12,
+      "new": 4,
       "by_source": {
-        "EU Funding & Tenders": 8,
+        "EU Funding & Tenders": 12,
         "Fondation de France": 2
       }
     },
@@ -60,7 +60,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -151,7 +151,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -180,7 +180,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -211,7 +211,125 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
+      "expired": false
+    },
+    {
+      "id": "1f93866fb2669cc7",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Supporting intermediary organisations (providing financial support to civil society organisations) working in the fields of gender-based violence and violence against children",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-REGRANTING. Supporting intermediary organisations (providing financial support to civil society organisations) working in the fields of gender-based violence and violence against children",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-REGRANTING",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection",
+        "Solidarity"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": true,
+      "last_seen": "2026-09-17",
+      "expired": false
+    },
+    {
+      "id": "fbc2267b75d25f96",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Protecting and supporting victims and survivors of gender-based violence.",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PROTECTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PROTECTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": true,
+      "last_seen": "2026-09-17",
+      "expired": false
+    },
+    {
+      "id": "bd34a93f50596a0f",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Preventing gender-based violence",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PREVENTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PREVENTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": true,
+      "last_seen": "2026-09-17",
+      "expired": false
+    },
+    {
+      "id": "e8404bbeae5a2f5c",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Strengthen integrated child protection systems (CPS) incl. via cross-sectoral collaboration, and ensure child-centred, coordinated responses to violence against children, to contribute to the…",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-CHILDREN.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-CHILDREN",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": true,
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -242,7 +360,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -271,7 +389,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": false
     },
     {
@@ -304,7 +422,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": true
     },
     {
@@ -335,7 +453,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-17",
       "expired": true
     }
   ]
