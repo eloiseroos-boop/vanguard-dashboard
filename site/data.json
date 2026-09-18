@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T11:48:42+00:00",
-    "run_date": "2026-09-17",
+    "generated_at": "2026-09-18T11:24:04+00:00",
+    "run_date": "2026-09-18",
     "counts": {
-      "total": 14,
-      "open": 12,
-      "new": 4,
+      "total": 17,
+      "open": 15,
+      "new": 3,
       "by_source": {
-        "EU Funding & Tenders": 12,
+        "EU Funding & Tenders": 15,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 94
+        "count": 88
       },
       {
         "name": "Fondation de France",
@@ -60,7 +60,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -93,7 +93,38 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
+      "expired": false
+    },
+    {
+      "id": "8862365c30bd5a43",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "The impact of the use of digital tools outside school and for communication on educational outcomes and mental health",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-04.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-04",
+      "funding_range": null,
+      "deadline": "2026-09-23",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "MHPSS"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:MHPSS"
+      ],
+      "date_first_seen": "2026-09-18",
+      "is_new": true,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -122,7 +153,36 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
+      "expired": false
+    },
+    {
+      "id": "f700deebbe9be5f3",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Safeguarding linguistic diversity in Europe",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2026-01-HERITAGE-06.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-HERITAGE-06",
+      "funding_range": null,
+      "deadline": "2026-09-23",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-18",
+      "is_new": true,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -151,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -180,7 +240,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -211,7 +271,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -241,8 +301,8 @@
         "theme:Solidarity"
       ],
       "date_first_seen": "2026-09-17",
-      "is_new": true,
-      "last_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -270,8 +330,8 @@
         "theme:Protection"
       ],
       "date_first_seen": "2026-09-17",
-      "is_new": true,
-      "last_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -299,8 +359,8 @@
         "theme:Protection"
       ],
       "date_first_seen": "2026-09-17",
-      "is_new": true,
-      "last_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -328,8 +388,8 @@
         "theme:Protection"
       ],
       "date_first_seen": "2026-09-17",
-      "is_new": true,
-      "last_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -360,7 +420,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -389,7 +449,36 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
+      "expired": false
+    },
+    {
+      "id": "35d3a3e77e47d2da",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "European Network of Factcheckers",
+      "donor": "European Union",
+      "description": "Call/topic: DIGITAL-2025-BESTUSE-08-FACTCHECKERS. Emergency Response - Support Grants",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/48165818",
+      "funding_range": null,
+      "deadline": "2027-12-31",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-09-18",
+      "is_new": true,
+      "last_seen": "2026-09-18",
       "expired": false
     },
     {
@@ -422,7 +511,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": true
     },
     {
@@ -453,7 +542,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "expired": true
     }
   ]
