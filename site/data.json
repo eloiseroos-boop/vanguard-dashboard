@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T11:24:04+00:00",
-    "run_date": "2026-09-18",
+    "generated_at": "2026-09-19T11:07:00+00:00",
+    "run_date": "2026-09-19",
     "counts": {
-      "total": 17,
-      "open": 15,
-      "new": 3,
+      "total": 18,
+      "open": 16,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 15,
+        "EU Funding & Tenders": 16,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 88
+        "count": 93
       },
       {
         "name": "Fondation de France",
@@ -60,7 +60,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -123,8 +123,8 @@
         "theme:MHPSS"
       ],
       "date_first_seen": "2026-09-18",
-      "is_new": true,
-      "last_seen": "2026-09-18",
+      "is_new": false,
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -153,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -181,8 +181,8 @@
         "theme:Protection"
       ],
       "date_first_seen": "2026-09-18",
-      "is_new": true,
-      "last_seen": "2026-09-18",
+      "is_new": false,
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -211,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -240,7 +240,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -271,7 +271,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -331,7 +331,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -389,7 +389,36 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
+      "expired": false
+    },
+    {
+      "id": "07291d3b4d5b3966",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Call for proposals to prevent and combat gender-based violence and violence against children",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2025-DAPHNE. Comprehensive and inclusive support for women and girls' victims of GBV",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47589185",
+      "funding_range": null,
+      "deadline": "2026-11-23",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-19",
+      "is_new": true,
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -420,7 +449,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -449,7 +478,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -477,8 +506,8 @@
         "theme:Humanitarian"
       ],
       "date_first_seen": "2026-09-18",
-      "is_new": true,
-      "last_seen": "2026-09-18",
+      "is_new": false,
+      "last_seen": "2026-09-19",
       "expired": false
     },
     {
@@ -511,7 +540,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": true
     },
     {
@@ -542,7 +571,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "expired": true
     }
   ]
