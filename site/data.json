@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T11:07:00+00:00",
-    "run_date": "2026-09-19",
+    "generated_at": "2026-09-20T11:31:46+00:00",
+    "run_date": "2026-09-20",
     "counts": {
       "total": 18,
       "open": 16,
-      "new": 1,
+      "new": 0,
       "by_source": {
         "EU Funding & Tenders": 16,
         "Fondation de France": 2
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 93
+        "count": 89
       },
       {
         "name": "Fondation de France",
@@ -60,7 +60,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -124,7 +124,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -153,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -182,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -211,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -240,7 +240,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -271,7 +271,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -331,7 +331,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -389,7 +389,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -417,8 +417,8 @@
         "theme:Protection"
       ],
       "date_first_seen": "2026-09-19",
-      "is_new": true,
-      "last_seen": "2026-09-19",
+      "is_new": false,
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -449,7 +449,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -478,7 +478,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -507,7 +507,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": false
     },
     {
@@ -540,7 +540,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": true
     },
     {
@@ -571,7 +571,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "expired": true
     }
   ]
