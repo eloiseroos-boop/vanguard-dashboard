@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T11:31:46+00:00",
-    "run_date": "2026-09-20",
+    "generated_at": "2026-09-21T12:56:28+00:00",
+    "run_date": "2026-09-21",
     "counts": {
-      "total": 18,
-      "open": 16,
-      "new": 0,
+      "total": 19,
+      "open": 17,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 16,
+        "EU Funding & Tenders": 17,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 89
+        "count": 107
       },
       {
         "name": "Fondation de France",
@@ -60,7 +60,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -124,7 +124,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -153,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -182,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -211,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -240,7 +240,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -271,7 +271,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -331,7 +331,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -389,7 +389,36 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
+      "expired": false
+    },
+    {
+      "id": "2e63b1b91c836844",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Climate security and civil preparedness – new ways to develop pre- and post-crisis climate-change related scenarios for a more resilient Europe",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL3-2026-01-DRS-05.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-DRS-05",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-09-21",
+      "is_new": true,
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -418,7 +447,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -449,7 +478,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -478,7 +507,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -507,7 +536,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": false
     },
     {
@@ -540,7 +569,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": true
     },
     {
@@ -571,7 +600,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-21",
       "expired": true
     }
   ]
