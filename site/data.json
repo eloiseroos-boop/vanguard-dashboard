@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T12:56:28+00:00",
-    "run_date": "2026-09-21",
+    "generated_at": "2026-09-22T11:46:13+00:00",
+    "run_date": "2026-09-22",
     "counts": {
       "total": 19,
-      "open": 17,
-      "new": 1,
+      "open": 16,
+      "new": 0,
       "by_source": {
         "EU Funding & Tenders": 17,
         "Fondation de France": 2
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 107
+        "count": 108
       },
       {
         "name": "Fondation de France",
@@ -34,35 +34,6 @@
     "deadline_highlight_days": 30
   },
   "opportunities": [
-    {
-      "id": "d8c164533d5209ce",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Quality Label Humanitarian Aid - Full Procedure",
-      "donor": "European Union",
-      "description": "Call/topic: ESC-HUMAID-2021-QUAL-LABEL-FP.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2021-QUAL-LABEL-FP",
-      "funding_range": null,
-      "deadline": "2026-09-21",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Humanitarian"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Humanitarian"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-09-21",
-      "expired": false
-    },
     {
       "id": "13e7d8404205578c",
       "source": "EU Funding & Tenders",
@@ -93,7 +64,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -124,7 +95,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -153,7 +124,7 @@
       ],
       "date_first_seen": "2026-09-07",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -182,7 +153,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -211,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -240,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -271,7 +242,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -302,7 +273,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -331,7 +302,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -360,7 +331,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -389,7 +360,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -417,8 +388,8 @@
         "theme:Humanitarian"
       ],
       "date_first_seen": "2026-09-21",
-      "is_new": true,
-      "last_seen": "2026-09-21",
+      "is_new": false,
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -447,7 +418,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -478,7 +449,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -507,7 +478,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -536,7 +507,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": false
     },
     {
@@ -569,7 +540,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "expired": true
     },
     {
@@ -600,7 +571,36 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
+      "expired": true
+    },
+    {
+      "id": "d8c164533d5209ce",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Quality Label Humanitarian Aid - Full Procedure",
+      "donor": "European Union",
+      "description": "Call/topic: ESC-HUMAID-2021-QUAL-LABEL-FP.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2021-QUAL-LABEL-FP",
+      "funding_range": null,
+      "deadline": "2026-09-21",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-09-22",
       "expired": true
     }
   ]
