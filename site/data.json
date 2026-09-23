@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T11:46:13+00:00",
-    "run_date": "2026-09-22",
+    "generated_at": "2026-09-23T11:45:43+00:00",
+    "run_date": "2026-09-23",
     "counts": {
-      "total": 19,
+      "total": 18,
       "open": 16,
       "new": 0,
       "by_source": {
-        "EU Funding & Tenders": 17,
+        "EU Funding & Tenders": 16,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 108
+        "count": 107
       },
       {
         "name": "Fondation de France",
@@ -34,39 +34,6 @@
     "deadline_highlight_days": 30
   },
   "opportunities": [
-    {
-      "id": "13e7d8404205578c",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Strengthened implementation of the EU Pact on Migration and Asylum and a focus on inclusion, integration, and health",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-08.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-08",
-      "funding_range": null,
-      "deadline": "2026-09-23",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Health",
-        "Refugees",
-        "Solidarity"
-      ],
-      "relevance_score": 53,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Health",
-        "theme:Refugees",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-09-22",
-      "expired": false
-    },
     {
       "id": "8862365c30bd5a43",
       "source": "EU Funding & Tenders",
@@ -95,36 +62,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-22",
-      "expired": false
-    },
-    {
-      "id": "70701f440f937a35",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Tackling gender-based violence against politically active women and LGBTIQ people",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL2-2026-01-DEMOCRACY-01.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-01",
-      "funding_range": null,
-      "deadline": "2026-09-23",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-07",
-      "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -153,7 +91,69 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
+      "expired": false
+    },
+    {
+      "id": "13e7d8404205578c",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Strengthened implementation of the EU Pact on Migration and Asylum and a focus on inclusion, integration, and health",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-08.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-08",
+      "funding_range": null,
+      "deadline": "2026-09-24",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Health",
+        "Refugees",
+        "Solidarity"
+      ],
+      "relevance_score": 53,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Health",
+        "theme:Refugees",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-08-06",
+      "is_new": false,
+      "last_seen": "2026-09-23",
+      "expired": false
+    },
+    {
+      "id": "70701f440f937a35",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Tackling gender-based violence against politically active women and LGBTIQ people",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL2-2026-01-DEMOCRACY-01.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-01",
+      "funding_range": null,
+      "deadline": "2026-09-24",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-07",
+      "is_new": false,
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -182,7 +182,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -211,7 +211,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -242,7 +242,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -273,7 +273,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -302,7 +302,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -331,7 +331,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -389,7 +389,7 @@
       ],
       "date_first_seen": "2026-09-21",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -418,7 +418,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -449,7 +449,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -478,7 +478,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -507,7 +507,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": false
     },
     {
@@ -540,7 +540,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": true
     },
     {
@@ -571,36 +571,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-22",
-      "expired": true
-    },
-    {
-      "id": "d8c164533d5209ce",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Quality Label Humanitarian Aid - Full Procedure",
-      "donor": "European Union",
-      "description": "Call/topic: ESC-HUMAID-2021-QUAL-LABEL-FP.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2021-QUAL-LABEL-FP",
-      "funding_range": null,
-      "deadline": "2026-09-21",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Humanitarian"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Humanitarian"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-23",
       "expired": true
     }
   ]
