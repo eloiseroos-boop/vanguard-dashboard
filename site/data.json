@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T11:53:55+00:00",
-    "run_date": "2026-09-24",
+    "generated_at": "2026-09-25T11:56:39+00:00",
+    "run_date": "2026-09-25",
     "counts": {
-      "total": 17,
-      "open": 15,
+      "total": 14,
+      "open": 12,
       "new": 0,
       "by_source": {
-        "EU Funding & Tenders": 15,
+        "EU Funding & Tenders": 12,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 102
+        "count": 103
       },
       {
         "name": "Fondation de France",
@@ -34,99 +34,6 @@
     "deadline_highlight_days": 30
   },
   "opportunities": [
-    {
-      "id": "13e7d8404205578c",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Strengthened implementation of the EU Pact on Migration and Asylum and a focus on inclusion, integration, and health",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-08.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-08",
-      "funding_range": null,
-      "deadline": "2026-09-24",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Health",
-        "Refugees",
-        "Solidarity"
-      ],
-      "relevance_score": 53,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Health",
-        "theme:Refugees",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-09-24",
-      "expired": false
-    },
-    {
-      "id": "8862365c30bd5a43",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "The impact of the use of digital tools outside school and for communication on educational outcomes and mental health",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL2-2026-01-TRANSFO-04.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-TRANSFO-04",
-      "funding_range": null,
-      "deadline": "2026-09-24",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Health",
-        "MHPSS"
-      ],
-      "relevance_score": 38,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Health",
-        "theme:MHPSS"
-      ],
-      "date_first_seen": "2026-09-18",
-      "is_new": false,
-      "last_seen": "2026-09-24",
-      "expired": false
-    },
-    {
-      "id": "70701f440f937a35",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Tackling gender-based violence against politically active women and LGBTIQ people",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL2-2026-01-DEMOCRACY-01.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL2-2026-01-DEMOCRACY-01",
-      "funding_range": null,
-      "deadline": "2026-09-24",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-07",
-      "is_new": false,
-      "last_seen": "2026-09-24",
-      "expired": false
-    },
     {
       "id": "fb6a2d0330c61a7c",
       "source": "EU Funding & Tenders",
@@ -153,7 +60,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -182,7 +89,7 @@
       ],
       "date_first_seen": "2026-09-02",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -213,7 +120,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -244,7 +151,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -273,7 +180,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -302,7 +209,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -331,7 +238,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -360,7 +267,7 @@
       ],
       "date_first_seen": "2026-09-21",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -389,7 +296,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -420,7 +327,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -449,7 +356,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -478,7 +385,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": false
     },
     {
@@ -511,7 +418,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": true
     },
     {
@@ -542,7 +449,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "expired": true
     }
   ]
