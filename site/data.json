@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T13:23:45+00:00",
-    "run_date": "2026-10-06",
+    "generated_at": "2026-10-07T13:32:35+00:00",
+    "run_date": "2026-10-07",
     "counts": {
-      "total": 12,
-      "open": 10,
-      "new": 0,
+      "total": 13,
+      "open": 11,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 10,
+        "EU Funding & Tenders": 11,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 102
+        "count": 107
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-08-15",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -93,7 +93,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -122,7 +122,7 @@
       ],
       "date_first_seen": "2026-09-21",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -151,7 +151,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -180,7 +180,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -209,7 +209,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -238,7 +238,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -269,7 +269,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -298,7 +298,36 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
+      "expired": false
+    },
+    {
+      "id": "09d597a8e00e012a",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL3-2027-01-DRS-03.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2027-01-DRS-03",
+      "funding_range": null,
+      "deadline": "2027-11-04",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-10-07",
+      "is_new": true,
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -327,7 +356,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": false
     },
     {
@@ -360,7 +389,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": true
     },
     {
@@ -391,7 +420,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "expired": true
     }
   ]
