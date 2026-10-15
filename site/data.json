@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T12:01:04+00:00",
-    "run_date": "2026-10-14",
+    "generated_at": "2026-10-15T11:38:04+00:00",
+    "run_date": "2026-10-15",
     "counts": {
-      "total": 12,
-      "open": 10,
-      "new": 0,
+      "total": 13,
+      "open": 11,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 10,
+        "EU Funding & Tenders": 11,
         "Fondation de France": 2
       }
     },
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 103
+        "count": 100
       },
       {
         "name": "Fondation de France",
@@ -62,7 +62,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -91,7 +91,7 @@
       ],
       "date_first_seen": "2026-09-21",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -120,7 +120,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -149,7 +149,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -178,7 +178,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -207,7 +207,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -238,7 +238,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -267,7 +267,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -296,7 +296,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -325,7 +325,36 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
+      "expired": false
+    },
+    {
+      "id": "78fcb9d7c714c48e",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "EU Humanitarian Partnership Certificate 2028-2034",
+      "donor": "European Union",
+      "description": "Call/topic: HUMA-2028-2034-PARTNERSHIP-CERT.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HUMA-2028-2034-PARTNERSHIP-CERT",
+      "funding_range": null,
+      "deadline": "2033-06-30",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-10-15",
+      "is_new": true,
+      "last_seen": "2026-10-15",
       "expired": false
     },
     {
@@ -358,7 +387,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": true
     },
     {
@@ -389,7 +418,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "expired": true
     }
   ]
