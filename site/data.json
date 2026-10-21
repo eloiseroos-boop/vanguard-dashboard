@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T11:46:37+00:00",
-    "run_date": "2026-10-20",
+    "generated_at": "2026-10-21T11:58:46+00:00",
+    "run_date": "2026-10-21",
     "counts": {
       "total": 13,
       "open": 11,
@@ -22,7 +22,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 103
+        "count": 98
       },
       {
         "name": "Fondation de France",
@@ -62,94 +62,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-20",
-      "expired": false
-    },
-    {
-      "id": "2e63b1b91c836844",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Climate security and civil preparedness – new ways to develop pre- and post-crisis climate-change related scenarios for a more resilient Europe",
-      "donor": "European Union",
-      "description": "Call/topic: HORIZON-CL3-2026-01-DRS-05.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-DRS-05",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Humanitarian"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Humanitarian"
-      ],
-      "date_first_seen": "2026-09-21",
-      "is_new": false,
-      "last_seen": "2026-10-20",
-      "expired": false
-    },
-    {
-      "id": "bd34a93f50596a0f",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Preventing gender-based violence",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2026-DAPHNE-PREVENTION.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PREVENTION",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-17",
-      "is_new": false,
-      "last_seen": "2026-10-20",
-      "expired": false
-    },
-    {
-      "id": "fbc2267b75d25f96",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Protecting and supporting victims and survivors of gender-based violence.",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2026-DAPHNE-PROTECTION.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PROTECTION",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-17",
-      "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -178,7 +91,94 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
+      "expired": false
+    },
+    {
+      "id": "bd34a93f50596a0f",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Preventing gender-based violence",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PREVENTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PREVENTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-10-21",
+      "expired": false
+    },
+    {
+      "id": "fbc2267b75d25f96",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Protecting and supporting victims and survivors of gender-based violence.",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PROTECTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PROTECTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-10-21",
+      "expired": false
+    },
+    {
+      "id": "2e63b1b91c836844",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Climate security and civil preparedness – new ways to develop pre- and post-crisis climate-change related scenarios for a more resilient Europe",
+      "donor": "European Union",
+      "description": "Call/topic: HORIZON-CL3-2026-01-DRS-05.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL3-2026-01-DRS-05",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-09-21",
+      "is_new": false,
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -207,7 +207,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -238,7 +238,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -267,7 +267,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -296,7 +296,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -325,7 +325,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -354,7 +354,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": false
     },
     {
@@ -387,7 +387,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": true
     },
     {
@@ -418,7 +418,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "expired": true
     }
   ]
