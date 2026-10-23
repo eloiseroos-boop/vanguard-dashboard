@@ -1,14 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T12:01:01+00:00",
-    "run_date": "2026-10-22",
+    "generated_at": "2026-10-23T11:46:22+00:00",
+    "run_date": "2026-10-23",
     "counts": {
-      "total": 13,
+      "total": 11,
       "open": 11,
       "new": 0,
       "by_source": {
-        "EU Funding & Tenders": 11,
-        "Fondation de France": 2
+        "EU Funding & Tenders": 11
       }
     },
     "sources": [
@@ -22,7 +21,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 97
+        "count": 95
       },
       {
         "name": "Fondation de France",
@@ -62,94 +61,7 @@
       ],
       "date_first_seen": "2026-09-17",
       "is_new": false,
-      "last_seen": "2026-10-22",
-      "expired": false
-    },
-    {
-      "id": "e8404bbeae5a2f5c",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Strengthen integrated child protection systems (CPS) incl. via cross-sectoral collaboration, and ensure child-centred, coordinated responses to violence against children, to contribute to the…",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2026-DAPHNE-CHILDREN.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-CHILDREN",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-17",
-      "is_new": false,
-      "last_seen": "2026-10-22",
-      "expired": false
-    },
-    {
-      "id": "bd34a93f50596a0f",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Preventing gender-based violence",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2026-DAPHNE-PREVENTION.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PREVENTION",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-17",
-      "is_new": false,
-      "last_seen": "2026-10-22",
-      "expired": false
-    },
-    {
-      "id": "fbc2267b75d25f96",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Protecting and supporting victims and survivors of gender-based violence.",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2026-DAPHNE-PROTECTION.",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PROTECTION",
-      "funding_range": null,
-      "deadline": "2026-11-05",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-17",
-      "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -178,7 +90,94 @@
       ],
       "date_first_seen": "2026-09-21",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
+      "expired": false
+    },
+    {
+      "id": "e8404bbeae5a2f5c",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Strengthen integrated child protection systems (CPS) incl. via cross-sectoral collaboration, and ensure child-centred, coordinated responses to violence against children, to contribute to the…",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-CHILDREN.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-CHILDREN",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-10-23",
+      "expired": false
+    },
+    {
+      "id": "bd34a93f50596a0f",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Preventing gender-based violence",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PREVENTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PREVENTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-10-23",
+      "expired": false
+    },
+    {
+      "id": "fbc2267b75d25f96",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Protecting and supporting victims and survivors of gender-based violence.",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2026-DAPHNE-PROTECTION.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CERV-2026-DAPHNE-PROTECTION",
+      "funding_range": null,
+      "deadline": "2026-11-05",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-17",
+      "is_new": false,
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -207,7 +206,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -238,7 +237,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -267,7 +266,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -296,7 +295,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -325,7 +324,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
     },
     {
@@ -354,72 +353,8 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "expired": false
-    },
-    {
-      "id": "6d3a5608edd1b673",
-      "source": "Fondation de France",
-      "source_type": "auto",
-      "title": "Démocratie en santé : réduire les inégalités de santé par le partenariat en santé et les démarches communautaires",
-      "donor": "Fondation de France",
-      "description": "Cet appel à initiatives vise à accompagner des structures sur les territoires Centre-Est et Méditerranée proposant d’expérimenter des initiatives qui contribuent à une meilleure prise en charge des patients, des populations minorisées et des aidants, permettant une transformation des pratiques de santé vers plus de co-construction et d’inclusion.",
-      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/democratie-sante",
-      "funding_range": null,
-      "deadline": "2026-09-10",
-      "deadline_approx": false,
-      "source_geography": [
-        "France"
-      ],
-      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
-      "geography": [
-        "France"
-      ],
-      "themes": [
-        "Health",
-        "Solidarity"
-      ],
-      "relevance_score": 35,
-      "relevance_reasons": [
-        "geo:France",
-        "theme:Health",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-10-22",
-      "expired": true
-    },
-    {
-      "id": "4778fe74da764e2e",
-      "source": "Fondation de France",
-      "source_type": "auto",
-      "title": "Réveillons la solidarité ! Ensemble partageons les fêtes de fin d’année",
-      "donor": "Fondation de France",
-      "description": "Pour les plus fragiles d’entre nous, pour toutes les personnes en situation d’exclusion, les fêtes de fin d’année sont un cap difficile à passer. La solitude est d’autant plus criante que partout, les familles et les amis se retrouvent. C’est pourquoi la Fondation de France, depuis plus de 20 ans, agit auprès des associations de proximité pour permettre…",
-      "url": "https://www.fondationdefrance.org/fr/appels-a-projets/reveillons-la-solidarite-ensemble-partageons-les-fetes-de-fin-d-annee",
-      "funding_range": null,
-      "deadline": "2026-09-10",
-      "deadline_approx": false,
-      "source_geography": [
-        "France"
-      ],
-      "eligibility_notes": "French national funder — verify eligibility for Lebanon/international work (many FdF programmes fund France-based projects).",
-      "geography": [
-        "France"
-      ],
-      "themes": [
-        "Solidarity"
-      ],
-      "relevance_score": 20,
-      "relevance_reasons": [
-        "geo:France",
-        "theme:Solidarity"
-      ],
-      "date_first_seen": "2026-08-06",
-      "is_new": false,
-      "last_seen": "2026-10-22",
-      "expired": true
     }
   ]
 }
