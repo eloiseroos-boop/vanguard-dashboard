@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T13:13:10+00:00",
-    "run_date": "2026-11-07",
+    "generated_at": "2026-11-08T13:34:27+00:00",
+    "run_date": "2026-11-08",
     "counts": {
       "total": 9,
       "open": 9,
@@ -21,7 +21,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 99
+        "count": 101
       },
       {
         "name": "Fondation de France",
@@ -59,7 +59,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -90,7 +90,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -121,7 +121,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -150,7 +150,7 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -179,7 +179,7 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -208,7 +208,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -237,7 +237,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -266,7 +266,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     },
     {
@@ -295,7 +295,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "expired": false
     }
   ]
