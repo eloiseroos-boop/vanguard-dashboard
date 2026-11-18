@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T16:09:02+00:00",
-    "run_date": "2026-11-17",
+    "generated_at": "2026-11-18T15:46:26+00:00",
+    "run_date": "2026-11-18",
     "counts": {
-      "total": 9,
-      "open": 9,
-      "new": 0,
+      "total": 10,
+      "open": 10,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 9
+        "EU Funding & Tenders": 10
       }
     },
     "sources": [
@@ -59,7 +59,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -90,7 +90,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -121,7 +121,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -150,7 +150,36 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
+      "expired": false
+    },
+    {
+      "id": "db003e8017886e69",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Skills Development for Syrian Refugees",
+      "donor": "European Union",
+      "description": "Call/topic: EuropeAid/188041/DD/ACT/JO.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EuropeAid/188041/DD/ACT/JO",
+      "funding_range": null,
+      "deadline": "2027-02-11",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.  •  Large institutional donor (AFD / EuropeAid / Expertise France) — typically requires multi-year audited accounts. Stretch.",
+      "geography": [
+        "MENA"
+      ],
+      "themes": [
+        "Refugees"
+      ],
+      "relevance_score": 40,
+      "relevance_reasons": [
+        "geo:MENA",
+        "theme:Refugees"
+      ],
+      "date_first_seen": "2026-11-18",
+      "is_new": true,
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -179,7 +208,7 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -208,7 +237,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -237,7 +266,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -266,7 +295,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     },
     {
@@ -295,7 +324,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "expired": false
     }
   ]
