@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T14:40:41+00:00",
-    "run_date": "2026-11-22",
+    "generated_at": "2026-11-23T18:21:33+00:00",
+    "run_date": "2026-11-23",
     "counts": {
-      "total": 10,
-      "open": 10,
-      "new": 0,
+      "total": 11,
+      "open": 11,
+      "new": 1,
       "by_source": {
-        "EU Funding & Tenders": 10
+        "EU Funding & Tenders": 11
       }
     },
     "sources": [
@@ -21,7 +21,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 101
+        "count": 119
       },
       {
         "name": "Fondation de France",
@@ -59,7 +59,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -90,7 +90,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -121,7 +121,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -150,7 +150,38 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "expired": false
+    },
+    {
+      "id": "1a3ed7192e431827",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Support to Civil Society, Human Rights and Democracy in Uzbekistan 2026-2027",
+      "donor": "European Union",
+      "description": "Call/topic: EuropeAid/187607/DD/ACT/UZ.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EuropeAid/187607/DD/ACT/UZ",
+      "funding_range": null,
+      "deadline": "2027-01-29",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.  •  Large institutional donor (AFD / EuropeAid / Expertise France) — typically requires multi-year audited accounts. Stretch.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection",
+        "Solidarity"
+      ],
+      "relevance_score": 38,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection",
+        "theme:Solidarity"
+      ],
+      "date_first_seen": "2026-11-23",
+      "is_new": true,
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -179,7 +210,7 @@
       ],
       "date_first_seen": "2026-11-18",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -208,7 +239,7 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -237,7 +268,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -266,7 +297,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -295,7 +326,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     },
     {
@@ -324,7 +355,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "expired": false
     }
   ]
