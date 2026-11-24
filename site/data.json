@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T18:21:33+00:00",
-    "run_date": "2026-11-23",
+    "generated_at": "2026-11-24T17:53:32+00:00",
+    "run_date": "2026-11-24",
     "counts": {
       "total": 11,
       "open": 11,
-      "new": 1,
+      "new": 0,
       "by_source": {
         "EU Funding & Tenders": 11
       }
@@ -34,35 +34,6 @@
   },
   "opportunities": [
     {
-      "id": "07291d3b4d5b3966",
-      "source": "EU Funding & Tenders",
-      "source_type": "auto",
-      "title": "Call for proposals to prevent and combat gender-based violence and violence against children",
-      "donor": "European Union",
-      "description": "Call/topic: CERV-2025-DAPHNE. Comprehensive and inclusive support for women and girls' victims of GBV",
-      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47589185",
-      "funding_range": null,
-      "deadline": "2026-11-23",
-      "deadline_approx": false,
-      "source_geography": [],
-      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
-      "geography": [
-        "Unspecified"
-      ],
-      "themes": [
-        "Protection"
-      ],
-      "relevance_score": 23,
-      "relevance_reasons": [
-        "geo:Unspecified",
-        "theme:Protection"
-      ],
-      "date_first_seen": "2026-09-19",
-      "is_new": false,
-      "last_seen": "2026-11-23",
-      "expired": false
-    },
-    {
       "id": "1830d109e8096861",
       "source": "EU Funding & Tenders",
       "source_type": "auto",
@@ -90,7 +61,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -121,7 +92,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -150,7 +121,7 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -180,8 +151,8 @@
         "theme:Solidarity"
       ],
       "date_first_seen": "2026-11-23",
-      "is_new": true,
-      "last_seen": "2026-11-23",
+      "is_new": false,
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -210,7 +181,7 @@
       ],
       "date_first_seen": "2026-11-18",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -239,7 +210,36 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
+      "expired": false
+    },
+    {
+      "id": "07291d3b4d5b3966",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Call for proposals to prevent and combat gender-based violence and violence against children",
+      "donor": "European Union",
+      "description": "Call/topic: CERV-2025-DAPHNE. Comprehensive and inclusive support for women and girls' victims of GBV",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/competitive-calls-cs/47589185",
+      "funding_range": null,
+      "deadline": "2027-03-01",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Protection"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Protection"
+      ],
+      "date_first_seen": "2026-09-19",
+      "is_new": false,
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -268,7 +268,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -297,7 +297,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -326,7 +326,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     },
     {
@@ -355,7 +355,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "expired": false
     }
   ]
