@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T17:20:08+00:00",
-    "run_date": "2026-11-25",
+    "generated_at": "2026-11-26T17:00:15+00:00",
+    "run_date": "2026-11-26",
     "counts": {
-      "total": 11,
-      "open": 11,
-      "new": 0,
+      "total": 13,
+      "open": 13,
+      "new": 2,
       "by_source": {
-        "EU Funding & Tenders": 11
+        "EU Funding & Tenders": 13
       }
     },
     "sources": [
@@ -61,7 +61,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -92,7 +92,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -121,7 +121,7 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -152,7 +152,7 @@
       ],
       "date_first_seen": "2026-11-23",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -181,7 +181,7 @@
       ],
       "date_first_seen": "2026-11-18",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -210,7 +210,7 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -239,7 +239,65 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
+      "expired": false
+    },
+    {
+      "id": "c4f6d1399135514e",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Volunteering in support of humanitarian aid operations",
+      "donor": "European Union",
+      "description": "Call/topic: ESC-HUMAID-2027-VOLUN.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-VOLUN",
+      "funding_range": null,
+      "deadline": "2027-04-22",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-11-26",
+      "is_new": true,
+      "last_seen": "2026-11-26",
+      "expired": false
+    },
+    {
+      "id": "6b70a46693f64152",
+      "source": "EU Funding & Tenders",
+      "source_type": "auto",
+      "title": "Quality Label Humanitarian Aid Strand",
+      "donor": "European Union",
+      "description": "Call/topic: ESC-HUMAID-2027-QUAL-LABEL.",
+      "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ESC-HUMAID-2027-QUAL-LABEL",
+      "funding_range": null,
+      "deadline": "2027-09-21",
+      "deadline_approx": false,
+      "source_geography": [],
+      "eligibility_notes": "EU institutional grant — likely needs 2+ yrs audited accounts, PIC registration, often a consortium. Stretch / not yet eligible.",
+      "geography": [
+        "Unspecified"
+      ],
+      "themes": [
+        "Humanitarian"
+      ],
+      "relevance_score": 23,
+      "relevance_reasons": [
+        "geo:Unspecified",
+        "theme:Humanitarian"
+      ],
+      "date_first_seen": "2026-11-26",
+      "is_new": true,
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -268,7 +326,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -297,7 +355,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -326,7 +384,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     },
     {
@@ -355,7 +413,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "expired": false
     }
   ]
