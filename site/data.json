@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T16:46:08+00:00",
-    "run_date": "2026-11-27",
+    "generated_at": "2026-11-28T15:38:28+00:00",
+    "run_date": "2026-11-28",
     "counts": {
       "total": 14,
       "open": 14,
-      "new": 1,
+      "new": 0,
       "by_source": {
         "EU Funding & Tenders": 14
       }
@@ -21,7 +21,7 @@
         "name": "EU Funding & Tenders",
         "status": "ok",
         "message": "",
-        "count": 105
+        "count": 104
       },
       {
         "name": "Fondation de France",
@@ -61,7 +61,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -92,7 +92,7 @@
       ],
       "date_first_seen": "2026-10-27",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -121,7 +121,7 @@
       ],
       "date_first_seen": "2026-11-03",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -152,7 +152,7 @@
       ],
       "date_first_seen": "2026-11-23",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -181,7 +181,7 @@
       ],
       "date_first_seen": "2026-11-18",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -211,8 +211,8 @@
         "theme:MHPSS"
       ],
       "date_first_seen": "2026-11-27",
-      "is_new": true,
-      "last_seen": "2026-11-27",
+      "is_new": false,
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -241,7 +241,7 @@
       ],
       "date_first_seen": "2026-10-25",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -270,7 +270,7 @@
       ],
       "date_first_seen": "2026-09-19",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -299,7 +299,7 @@
       ],
       "date_first_seen": "2026-11-26",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -328,7 +328,7 @@
       ],
       "date_first_seen": "2026-11-26",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -357,7 +357,7 @@
       ],
       "date_first_seen": "2026-08-06",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -386,7 +386,7 @@
       ],
       "date_first_seen": "2026-10-07",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -415,7 +415,7 @@
       ],
       "date_first_seen": "2026-09-18",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     },
     {
@@ -444,7 +444,7 @@
       ],
       "date_first_seen": "2026-10-15",
       "is_new": false,
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "expired": false
     }
   ]
